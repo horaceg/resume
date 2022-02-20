@@ -1,0 +1,6 @@
+*.html
+*.docx
+*.txt
+*.pdf
+*.odt
+.vscode/
