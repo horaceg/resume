@@ -91,7 +91,6 @@ summary {
 
 summary::after {
   content: "\a" attr(preview);
-  /* display: inline-block; */
   white-space: pre;
   opacity: 0.5;
 }
@@ -99,9 +98,3 @@ summary::after {
 details[open] > summary::after {
   content: none;
 }
-
-/* @media (max-width: 400px) {
-  details {
-    open: "true";
-  }
-} */
