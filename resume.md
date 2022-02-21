@@ -1,8 +1,9 @@
 ---
 title:  Horace Guy
 keywords: [cv, resume]
-lang: english
+lang: en
 header-includes: <script src="script.js"></script>
+description: The resume of Horace Guy
 ---
 
 ----
