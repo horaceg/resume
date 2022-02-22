@@ -1,5 +1,5 @@
 ---
-title:  Horace Guy
+title: Horace Guy
 keywords: [cv, resume, horace, guy, horace guy]
 lang: en
 header-includes: <script src="script.js"></script>
