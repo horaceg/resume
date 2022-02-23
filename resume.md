@@ -2,7 +2,6 @@
 title: Horace Guy
 keywords: [cv, resume, horace, guy, horace guy]
 lang: en
-# header-includes: <script src="script.js"></script>
 description: The resume of Horace Guy
 ---
 
@@ -111,5 +110,5 @@ Activities
 
 ----
 
-> [pdf version](https://horaceg.xyz/resume.pdf) •
+> [pdf version](https://horaceg.xyz/horace_guy.pdf) •
 > [html version](https://horaceg.xyz)
