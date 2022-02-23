@@ -98,7 +98,7 @@ description: The resume of Horace Guy
 
 Programming
 :   - Proficiency in scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
-    - Shell scripting, Unix tools, Docker, notions of Javascript & Ocaml
+    - Shell scripting, Unix tools, Docker, notions of Ocaml, HTML & CSS & Javascript
 
 ## Activities and interest
 
