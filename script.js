@@ -8,7 +8,12 @@ window.addEventListener("load", function () {
     }
     e.children[0].setAttribute(
       "preview",
-      e.outerHTML.split("<p>")[1].split(" ").slice(0, 4).join(" ") + "..."
+      e.outerHTML
+        .split("<p>")[1]
+        .split(" ")
+        .slice(0, 4)
+        .join(" ")
+        .replace("amp;", "") + "..."
     );
   }
 });
