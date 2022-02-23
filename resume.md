@@ -2,14 +2,23 @@
 title: Horace Guy
 keywords: [cv, resume, horace, guy, horace guy]
 lang: en
-header-includes: <script src="script.js"></script>
+# header-includes: <script src="script.js"></script>
 description: The resume of Horace Guy
 ---
 
-> <a href="https://github.com/horaceg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="17px"> horaceg</a>
-> • <a href="https://linkedin.com/in/horace-guy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="17px"> horace-guy</a>
-> • <a href="https://horaceguy.pages.dev" target="_blank">horaceguy.pages.dev</a>
-> • <a href="https://horaceg.xyz" target="_blank">horaceg.xyz</a>
+> <a href="https://github.com/horaceg" target="_blank" rel="noopener">
+> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="17px" width="17px" alt="Github logo">
+> horaceg</a>
+> • 
+> <a href="https://linkedin.com/in/horace-guy" target="_blank" rel="noopener">
+> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="17px" width="17px" alt="Linkedin logo"> 
+> horace-guy</a>
+> • 
+> <a href="https://horaceguy.pages.dev" target="_blank" rel="noopener">
+> horaceguy.pages.dev</a>
+> • 
+> <a href="https://horaceg.xyz" target="_blank">
+> horaceg.xyz</a>
 > \
 > \
 > <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618)
@@ -19,7 +28,7 @@ description: The resume of Horace Guy
 
 > **Data scientist**,
 > \
-> with a computer science and applied mathematics background. Living in Paris, France.
+> with a computer science and applied mathematics background. 
 
 ----
 
@@ -28,9 +37,9 @@ description: The resume of Horace Guy
 
 
 2019 - now
-:   <details open><summary>*Data scientist* at **Deepki** (Paris, France)</summary>
+:   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
     
-    In the R&D team, working on data for energy efficiency of buildings. Worked on:
+    Data science in ESG topics for more energy efficient buildings. Worked on:
     
     - A tool to query heterogenous databases with HTTP REST APIs.
     - Bayesion modelling of consumption from location, floor area and usage.
@@ -44,8 +53,8 @@ description: The resume of Horace Guy
 
     Predictive modelling of NBA basketball in order to bet on professionnal bookmakers:
 
-    - Prediction of the number of markov transitions remaining during a game
-    - Implementation of a risk controller framework with property-based and fuzz testing
+    - Prediction of the number of markov transitions remaining during a game.
+    - Implementation of a risk controller framework with property-based and fuzz testing.
 
     </details>
 
@@ -56,7 +65,6 @@ description: The resume of Horace Guy
 
     - Responsible for weekly business review, monitoring activity through KPIs
     - Ad-hoc analysis on performance, revenue attribution, customer retention
-    <!-- - Designed a machine learning model to predict upsell opportunities in advertising campaigns -->
 
 2016 - 2017
 :   <details open><summary>*Mathematics Teaching Assistant* at **Lycée Charlemagne**</summary>
@@ -70,16 +78,16 @@ description: The resume of Horace Guy
 2015 - 2019
 :   <details open><summary>*MSc Engineering* at **Ecole Centrale Paris** (now CentraleSupélec)</summary>
 
-    Major: Applied Mathematics in Data Science
+    Major: Applied Mathematics in Data Science.
 
-    Relevant courses includes: random modelling, convex and discrete optimization, machine learning, deep learning
+    Relevant courses includes: random modelling, convex and discrete optimization, machine learning, deep learning, reinforcement learning, natural language processing.
 
     </details>
 
 2013 - 2015
 :   <details open><summary>*Higher School Preparatory Classes* at **Lycée Charlemagne**</summary>
 
-    Two-year undergraduate intensive course in mathematics, physics, computer science. Classes: MPSI - MP*
+    Two-year undergraduate intensive course in mathematics, physics, computer science. Classes: MPSI - MP*.
 
     Ranked 201/3370 of Concours Centrale-Supélec national entrance exams.
 
@@ -88,8 +96,8 @@ description: The resume of Horace Guy
 ## Skills
 
 Programming
-:   - Proficiency in scientific Python: Numpy, Pandas, Scikit-learn
-    - Differentiable and probabilistic programming: JAX, Numpyro
+:   - Proficiency in scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
+    - Shell scripting, Unix tools, Docker, notions of Javascript & Ocaml
 
 ## Activities and interest
 
