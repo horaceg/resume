@@ -38,7 +38,7 @@ description: The resume of Horace Guy
 2019 - now
 :   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
     
-    Data science in ESG topics for more energy efficient buildings. Worked on:
+    Data science improving energy efficiency of buildings. Worked on:
     
     - A tool to query heterogenous databases with HTTP REST APIs.
     - Bayesion modelling of consumption from location, floor area and usage.
