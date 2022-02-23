@@ -66,6 +66,8 @@ description: The resume of Horace Guy
     - Responsible for weekly business review, monitoring activity through KPIs
     - Ad-hoc analysis on performance, revenue attribution, customer retention
 
+    </details>
+
 2016 - 2017
 :   <details open><summary>*Mathematics Teaching Assistant* at **Lycée Charlemagne**</summary>
 
