@@ -2,4 +2,4 @@
 
 set -ex
 
-ls *.{md,css,js} | entr ./build.fish
+ls *.{md,css,js} | entr ./build.sh
