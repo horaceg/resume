@@ -5,11 +5,10 @@ window.addEventListener("load", function () {
       e.open = false;
     } else {
       e.open = true;
-    };
+    }
     e.children[0].setAttribute(
       "preview",
-      e.outerHTML
-        .split("<p>")[1]
+      e.children[1].innerText
         .split(" ")
         .slice(0, 4)
         .join(" ")
