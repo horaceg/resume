@@ -110,5 +110,5 @@ Activities
 
 ----
 
-> [pdf version](https://horaceg.xyz/horace_guy.pdf) •
+> [pdf version](https://resume.horaceg.xyz/horace_guy.pdf) •
 > [html version](https://resume.horaceg.xyz)
