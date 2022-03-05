@@ -13,11 +13,11 @@ description: The resume of Horace Guy
 > <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="17px" width="17px" alt="Linkedin logo"> 
 > horace-guy</a>
 > • 
-> <a href="https://horaceguy.pages.dev" target="_blank" rel="noopener">
-> horaceguy.pages.dev</a>
+> <a href="https://blog.horaceg.xyz" target="_blank" rel="noopener">
+> blog.horace.xyz</a>
 > • 
-> <a href="https://horaceg.xyz" target="_blank">
-> horaceg.xyz</a>
+> <a href="https://resume.horaceg.xyz" target="_blank">
+> resume.horaceg.xyz</a>
 > \
 > \
 > <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618)
@@ -111,4 +111,4 @@ Activities
 ----
 
 > [pdf version](https://horaceg.xyz/horace_guy.pdf) •
-> [html version](https://horaceg.xyz)
+> [html version](https://resume.horaceg.xyz)
