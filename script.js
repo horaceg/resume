@@ -6,7 +6,7 @@ window.addEventListener("load", function () {
     } else {
       e.open = true;
     }
-    e.children[0].setAttribute(
+    e.getElementsByTagName("summary")[0].setAttribute(
       "preview",
       e.children[1].innerText
         .split(" ")
