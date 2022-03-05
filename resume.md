@@ -14,14 +14,14 @@ description: The resume of Horace Guy
 > horace-guy</a>
 > • 
 > <a href="https://blog.horaceg.xyz" target="_blank" rel="noopener">
-> blog.horace.xyz</a>
+> blog.horaceg.xyz</a>
 > • 
 > <a href="https://resume.horaceg.xyz" target="_blank">
 > resume.horaceg.xyz</a>
 > \
 > \
 > <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618)
-> • 102B avenue de Saint-Mandé, Paris, France
+<!-- > • 102B avenue de Saint-Mandé, Paris, France -->
 
 <!-- ---- -->
 
@@ -85,9 +85,7 @@ description: The resume of Horace Guy
 2013 - 2015
 :   <details open><summary>*Higher School Preparatory Classes* at **Lycée Charlemagne**</summary>
 
-    Two-year undergraduate intensive course in mathematics, physics, computer science. Classes: MPSI - MP*.
-
-    Ranked 201/3370 of Concours Centrale-Supélec national entrance exams.
+    MPSI - MP*: Two-year undergraduate intensive course in mathematics, physics, computer science. Ranked 201/3370 of Concours Centrale-Supélec national entrance exams.
 
     </details>
 
