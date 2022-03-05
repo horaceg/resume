@@ -7,11 +7,19 @@ window.addEventListener("load", function () {
       e.open = true;
     }
     var pElements = e.getElementsByTagName("p");
-    var content = pElements.length == 1 ? pElements[0] : pElements[1];
+    var ix = 0;
+    while (pElements[ix].innerText.length < 5) {
+      ix++;
+    }
+    var content = pElements[ix].innerText
+      .split(" ")
+      .slice(0, 4)
+      .join(" ")
+      .replace("amp;", "");
+
     e.getElementsByTagName("summary")[0].setAttribute(
       "preview",
-      content.innerText.split(" ").slice(0, 4).join(" ").replace("amp;", "") +
-        "..."
+      content + "..."
     );
   }
 });
