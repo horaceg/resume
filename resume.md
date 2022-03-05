@@ -23,18 +23,17 @@ description: The resume of Horace Guy
 > <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618)
 > • 102B avenue de Saint-Mandé, Paris, France
 
-----
+<!-- ---- -->
 
 > **Machine learning engineer**
 
 ----
 
-
 ## Corporate experience
 
 
 2019 - now
-:   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
+:   <details open><summary>*Data scientist* in R&D at **Deepki**</summary>
     
     Data science improving energy efficiency of buildings. Worked on:
     
@@ -56,7 +55,7 @@ description: The resume of Horace Guy
     </details>
 
 2017
-:   <details open> <summary>*Data analyst intern* at **Amazon** (Paris, France)</summary>
+:   <details open> <summary>*Data analyst intern* at **Amazon**</summary>
 
     In charge of business intelligence for international (EU + Japan + Canada) Ad services:
 

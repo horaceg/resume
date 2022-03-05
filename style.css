@@ -24,7 +24,7 @@ body {
 
 /* Title of the resume */
 h1 {
-  font-size: 55px;
+  font-size: 45px;
   color: #757575;
   text-align: center;
   margin: 20px auto 10px;
@@ -90,7 +90,7 @@ summary {
 }
 
 summary::after {
-  content: "\a" attr(preview);
+  content: "\a"attr(preview);
   white-space: pre;
   opacity: 0.5;
 }
