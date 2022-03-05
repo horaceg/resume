@@ -25,9 +25,7 @@ description: The resume of Horace Guy
 
 ----
 
-> **Machine learning engineer**,
-> \
-> with a computer science and applied mathematics background. 
+> **Machine learning engineer**
 
 ----
 
