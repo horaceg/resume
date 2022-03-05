@@ -5,7 +5,7 @@ window.addEventListener("load", function () {
       e.open = false;
     } else {
       e.open = true;
-    }
+    };
     e.children[0].setAttribute(
       "preview",
       e.outerHTML
