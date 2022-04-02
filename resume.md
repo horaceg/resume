@@ -29,33 +29,33 @@ description: The resume of Horace Guy
 
 ----
 
-## Corporate experience
+## Professional experience
 
 
-2019 - now
-:   <details open><summary>*Data scientist* in R&D at **Deepki**</summary>
+May 2019 - present
+:   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
     
     Data science improving energy efficiency of buildings. Worked on:
     
-    - A tool to query heterogenous databases with HTTP REST APIs.
-    - Bayesion modelling of consumption from location, floor area and usage.
-    - Gap-filling of consumption data to estimate missing monthly points.
-    - Mentoring and training of interns and junior staff. 
+    - A tool to query 220 heterogenous databases with HTTP REST APIs
+    - Bayesion modelling of consumption based on location, floor area and usage
+    - Gap-filling of consumption data to estimate missing monthly points: 2x improvement
+    - Mentoring and training of 5 interns and junior staff members
 
     </details>
 
-2018
+Feb 2018 - Aug 2018
 :   <details open><summary>*R&D engineer intern* at **Stratagem Technologies** (London, UK)</summary>
 
-    Predictive modelling of NBA basketball in order to bet on professionnal bookmakers:
+    Predictive modelling of NBA basketball in order to advise investment decisions:
 
-    - Prediction of the number of markov transitions remaining during a game.
-    - Implementation of a risk controller framework with property-based and fuzz testing.
+    - Prediction of the number of Markov transitions remaining during a game
+    - Implementation of a risk controller framework with property-based and fuzz testing
 
     </details>
 
-2017
-:   <details open> <summary>*Data analyst intern* at **Amazon**</summary>
+Jul 2017 - Dec 2017
+:   <details open> <summary>*Data analyst intern* at **Amazon** (Paris, France)</summary>
 
     In charge of business intelligence for international (EU + Japan + Canada) Ad services:
 
@@ -64,14 +64,14 @@ description: The resume of Horace Guy
 
     </details>
 
-2016 - 2017
-:   <details open><summary>*Mathematics Teaching Assistant* at **Lycée Charlemagne**</summary>
+Sep 2016 - Dec 2017
+:   <details open><summary>*Mathematics Teaching Assistant* at **Lycée Charlemagne** (Paris, France)</summary>
 
-    Conducting oral exams for MPSI students preparing the highly competitive entrance exams to the French engineering "Grandes Ecoles". 2 hours a week.
+    Conducting oral exams for MPSI students preparing the highly competitive entrance exams to the French engineering "Grandes Ecoles" (two hours per week)
 
     </details>
 
-## Education
+## Academic experience
 
 2015 - 2019
 :   <details open><summary>*MSc Engineering* at **Ecole Centrale Paris** (now CentraleSupélec)</summary>
@@ -80,10 +80,12 @@ description: The resume of Horace Guy
 
     Relevant courses includes: random modelling, convex and discrete optimization, machine learning, deep learning, reinforcement learning, natural language processing.
 
+    Thesis: Detecting anomalies and monitoring urban furniture energy consumption
+
     </details>
 
 2013 - 2015
-:   <details open><summary>*Higher School Preparatory Classes* at **Lycée Charlemagne**</summary>
+:   <details open><summary>*Higher School Preparatory Classes* at **Lycée Charlemagne** (Paris, France)</summary>
 
     MPSI - MP*: Two-year undergraduate intensive course in mathematics, physics, computer science. Ranked 201/3370 of Concours Centrale-Supélec national entrance exams.
 
@@ -95,13 +97,16 @@ Programming
 :   - Proficiency in scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
     - Shell scripting, Unix tools, Docker, notions of Ocaml, HTML & CSS & Javascript
 
+Language
+:   - French (Native) | English (Proficient) | German (Fair)
+
 ## Activities and interest
 
 Hobbies
-:   Handball, snowboard, surf. Improv & stand-up comedy.
+:   Handball | Snowboarding | Surfing | Improv & stand-up comedy
 
 Activities
-:   President of the Gala (Equinoxe) student organisation during university.
+:   Centrale Paris Gala (Equinoxe) student organisation (President)
 
 ----
 
