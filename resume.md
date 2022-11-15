@@ -18,9 +18,9 @@ description: The resume of Horace Guy
 > • 
 > <a href="https://resume.horaceg.xyz" target="_blank">
 > resume.horaceg.xyz</a>
+<!-- > \
 > \
-> \
-> <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618)
+> <horace.guy.k@gmail.com> • [+33 6 10 76 96 18](tel:+33610769618) -->
 <!-- > • 102B avenue de Saint-Mandé, Paris, France -->
 
 <!-- ---- -->
