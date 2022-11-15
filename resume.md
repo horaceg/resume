@@ -25,7 +25,7 @@ description: The resume of Horace Guy
 
 <!-- ---- -->
 
-> **Data Scientist**
+> **Machine Learning Engineer**
 
 ----
 
