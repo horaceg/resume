@@ -31,7 +31,7 @@ description: Le Curriculum Vitae de Horace Guy
 ## Expérience professionnelle
 
 
-Mai 2019 - présent
+Mai 2019 - Fév 2023
 :   <details open><summary>*Data scientist* en R&D à **Deepki** (Paris, France)</summary>
     
     Science des données pour améliorer l'efficacité énergétique des bâtiments:
@@ -43,7 +43,7 @@ Mai 2019 - présent
 
     </details>
 
-Fév 2018 - Aoû 2018
+Fév 2018-Aoû 2018
 :   <details open><summary>*Stagiaire ingénieur en R&D* à **Stratagem Technologies** (London, UK)</summary>
 
     Modélisation prédictive de la ligue NBA de basketball afin d'informer les décisions de pari:

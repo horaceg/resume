@@ -32,7 +32,7 @@ description: The resume of Horace Guy
 ## Professional experience
 
 
-May 2019 - present
+May 2019 - Feb 2023
 :   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
     
     Data science improving energy efficiency of buildings. Worked on:
