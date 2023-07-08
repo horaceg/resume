@@ -95,7 +95,7 @@ Sep 2016 - Dec 2017
 
 Programming
 :   - Proficiency in scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
-    - Git, Shell, CI/CD, Unix tools, Docker, notions of Ocaml, HTML & CSS & Javascript
+    - HTML & CSS & Javascript, git, Shell, CI/CD, Unix tools, Docker, notions of Ocaml
 
 Language
 :   - French (Native) | English (Proficient) | German (Fair)

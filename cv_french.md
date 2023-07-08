@@ -94,7 +94,7 @@ Sep 2016 - Déc 2017
 
 Programmation
 :   - Maîtrise en Python scientifique: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
-    - Git, outils *nix et GNU/Linux, scripts bash, notions d'Ocaml, HTML & CSS & Javascript
+    -  HTML & CSS & Javascript, git, outils *nix et GNU/Linux, scripts bash, notions d'Ocaml
 
 Langues
 :   - Francais (natif) | Anglais (maîtrise) | Allemand (notions)
