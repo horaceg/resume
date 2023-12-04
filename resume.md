@@ -31,6 +31,14 @@ description: The resume of Horace Guy
 
 ## Professional experience
 
+Sep 2023 - Dec 2023
+:   <details open><summary>*Founder in residence* at **Entrepreneur First** (Paris, France)</summary>
+
+    Part of a curated community of exceptional future founders, working to build globally impactful companies together.
+
+    Formed 3 different teams tackling environmental problems with software.
+    
+    </details>
 
 May 2019 - Feb 2023
 :   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
@@ -106,7 +114,7 @@ Hobbies
 :   Handball | Snowboarding | Surfing | Improv & stand-up comedy
 
 Activities
-:   Centrale Paris Gala (Equinoxe) student organisation (President)
+:   Gala Centrale Paris (Equinoxe) student organisation (2017 President)
 
 ----
 

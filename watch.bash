@@ -2,4 +2,4 @@
 
 set -ex
 
-ls *.{md,css,js} | entr ./build.bash
+ls *.{md,css,js,bash} | entr ./build.bash
