@@ -106,7 +106,7 @@ Programming
     - HTML & CSS & JS, Elixir, Git, Bash, CI/CD, Unix tools, Docker, Ocaml
 
 Language
-:   - French (Native) | English (Proficient) | German (Fair)
+:   French (Native) | English (Proficient) | German (Fair)
 
 ## Activities and interest
 
@@ -115,6 +115,23 @@ Hobbies
 
 Activities
 :   Gala Centrale Paris (Equinoxe) student organisation (2017 President)
+
+## Publications
+
+Peer-reviewed
+:   - [Horace Guy, Simon Vittoz, Giulia Caputo, Thimothée Thiery,
+_Benchmarking the energy performance of European commercial buildings with a bayesian modeling framework_,
+Energy and Buildings,
+Volume 299,
+2023
+](https://www.sciencedirect.com/science/article/abs/pii/S0378778823008253)
+
+Other
+:   - [Kaggle: _Impacts of interventions on the propagation of COVID-19 with mobility data_](https://www.kaggle.com/achyrogue/impact-of-interventions-through-mobility-data)
+    - [_Introduction to probabilistic programming_](https://observablehq.com/@horaceg/probabilistic-programming)
+    - [_Regression et descente de gradient_](https://techblog.deepki.com/gradient-descent/)
+    - [_Le gradient derrière l'intelligence artificielle_](https://techblog.deepki.com/autodiff/)
+    - [_A gradient-descent visualizer_](https://gradfront.pages.dev/)
 
 ----
 
