@@ -132,6 +132,7 @@ Other
     - [_Regression et descente de gradient_](https://techblog.deepki.com/gradient-descent/)
     - [_Le gradient derrière l'intelligence artificielle_](https://techblog.deepki.com/autodiff/)
     - [_A gradient-descent visualizer_](https://gradfront.pages.dev/)
+    - [_A probabilistic betting framework_](https://blog.horaceg.xyz/posts/betting-theory/)
 
 ----
 
