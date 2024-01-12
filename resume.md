@@ -34,7 +34,7 @@ description: The resume of Horace Guy
 Sep 2023 - Dec 2023
 :   <details open><summary>*Founder in residence* at **Entrepreneur First** (Paris, France)</summary>
 
-    Part of a curated community of exceptional future founders, working to build globally impactful companies together.
+    Part of a curated community of future founders, working to build globally impactful companies together.
 
     Formed 3 different teams tackling environmental problems with software.
     
