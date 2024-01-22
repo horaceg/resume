@@ -48,7 +48,7 @@ May 2019 - Feb 2023
     - A tool to query 220 heterogenous databases with HTTP REST APIs
     - Bayesion modelling of consumption based on location, floor area and usage
     - Gap-filling of consumption data to estimate missing monthly points: 2x improvement
-    - Mentoring and training of 5 interns and junior staff members
+    - Mentoring and training of interns and junior staff members
 
     </details>
 
