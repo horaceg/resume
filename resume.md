@@ -33,14 +33,16 @@ Sep 2023 - Dec 2023
 
     Part of a curated community of future founders, working to build globally impactful companies together.
 
-    Formed 3 different teams tackling environmental problems with software.
+    Formed 3 different teams tackling hard problems with software.
     
     </details>
 
 May 2019 - Feb 2023
 :   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
     
-    Data science improving energy efficiency of buildings. Worked on:
+    Data science improving energy efficiency of buildings. 
+    
+    Working from research to deployment in production of machine learning models:
     
     - A tool to query 220 heterogenous databases with HTTP REST APIs
     - Bayesion modelling of consumption based on location, floor area and usage
