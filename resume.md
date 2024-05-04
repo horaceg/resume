@@ -28,6 +28,13 @@ description: The resume of Horace Guy
 
 ## Professional experience
 
+Mar 2024 - Present
+:   <details open><summary>*Data Scientist* at **Datadog** (Paris, France)</summary>
+
+    Building machine learning and algorithmically driven features in the Datadog platform for Watchdog products.
+    
+    </details>
+
 Sep 2023 - Dec 2023
 :   <details open><summary>*Founder in residence* at **Entrepreneur First** (Paris, France)</summary>
 
@@ -44,7 +51,7 @@ May 2019 - Feb 2023
     
     Working from research to deployment in production of machine learning models:
     
-    - A tool to query 220 heterogenous databases with HTTP REST APIs
+    - A tool to query hundreds of heterogenous databases with HTTP REST APIs
     - Bayesion modelling of consumption based on location, floor area and usage
     - Gap-filling of consumption data to estimate missing monthly points: 2x improvement
     - Mentoring and training of interns and junior staff members
@@ -102,7 +109,7 @@ Sep 2016 - Dec 2017
 
 Programming
 :   - Scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
-    - HTML & CSS & JS, Elixir, Git, Bash, CI/CD, Unix tools, Docker, Ocaml
+    - Git, Bash, CI/CD, Unix tools, Docker, HTML & CSS & JS, Elixir, Ocaml
 
 Language
 :   French (Native) | English (Proficient) | German (Fair)
@@ -110,7 +117,7 @@ Language
 ## Activities and interest
 
 Hobbies
-:   Handball | Snowboarding | Surfing | Improv & stand-up comedy
+:   Handball | Snowboarding | Surfing | Stand-up comedy
 
 Activities
 :   Gala Centrale Paris (Equinoxe) student organisation (2017 President)
@@ -126,12 +133,11 @@ Volume 299,
 ](https://www.sciencedirect.com/science/article/abs/pii/S0378778823008253)
 
 Other
-:   - [Kaggle: _Impacts of interventions on the propagation of COVID-19 with mobility data_](https://www.kaggle.com/achyrogue/impact-of-interventions-through-mobility-data)
+:   - [_An introduction to Bayesian inference_](https://blog.horaceg.xyz/posts/bayes)
+    - [Kaggle: _Impacts of interventions on the propagation of COVID-19 with mobility data_](https://www.kaggle.com/achyrogue/impact-of-interventions-through-mobility-data)
     - [_Introduction to probabilistic programming_](https://observablehq.com/@horaceg/probabilistic-programming)
-    - [_Regression et descente de gradient_](https://techblog.deepki.com/gradient-descent/)
-    - [_Le gradient derrière l'intelligence artificielle_](https://techblog.deepki.com/autodiff/)
     - [_A gradient-descent visualizer_](https://gradfront.pages.dev/)
-    - [_A probabilistic betting framework_](https://blog.horaceg.xyz/posts/betting-theory/)
+    - [_Mathematics of bookmaking_](https://blog.horaceg.xyz/posts/betting-theory/)
 
 ----
 
