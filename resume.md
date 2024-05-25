@@ -16,8 +16,8 @@ description: The resume of Horace Guy
 > <a href="https://blog.horaceg.xyz" target="_blank" rel="noopener">
 > blog.horaceg.xyz</a>
 > • 
-> <a href="https://resume.horaceg.xyz" target="_blank">
-> resume.horaceg.xyz</a>
+> <a href="https://cv.horaceg.xyz" target="_blank">
+> cv.horaceg.xyz</a>
 \
 
 <!-- ---- -->
