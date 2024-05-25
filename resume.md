@@ -22,13 +22,13 @@ description: The resume of Horace Guy
 
 <!-- ---- -->
 
-> **Machine Learning Engineer**
+> **Data Scientist**
 
 ----
 
 ## Professional experience
 
-Mar 2024 - Present
+Mar 2024 - Now
 :   <details open><summary>*Data Scientist* at **Datadog** (Paris, France)</summary>
 
     Building machine learning and algorithmically driven features in the Datadog platform for Watchdog products.
