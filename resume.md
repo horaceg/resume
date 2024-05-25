@@ -141,5 +141,5 @@ Other
 
 ----
 
-> [pdf version](https://resume.horaceg.xyz/horace_guy.pdf) •
-> [html version](https://resume.horaceg.xyz)
+> [pdf version](https://cv.horaceg.xyz/horace_guy.pdf) •
+> [html version](https://cv.horaceg.xyz)
