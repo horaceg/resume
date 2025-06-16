@@ -22,16 +22,20 @@ description: The resume of Horace Guy
 
 <!-- ---- -->
 
-> **Data Scientist**
+> **Applied Scientist**
 
 ----
 
 ## Professional experience
 
 Mar 2024 - Now
-:   <details open><summary>*Data Scientist* at **Datadog** (Paris, France)</summary>
+:   <details open><summary>*Applied Scientist* at **Datadog** (Paris, France)</summary>
 
-    Building machine learning and algorithmically driven features in the Datadog platform for Watchdog products.
+    Building machine learning and algorithmically driven features for Datadog app.
+
+    - Designed an algorithm to cluster logs based on tags entropy.
+    - Implemented a fast shallow learning model to detect cyberattacks in PyTorch.
+    - Interviewed candidates with _Data Science Fundamentals_ interview. 
     
     </details>
 
@@ -108,7 +112,7 @@ Sep 2016 - Dec 2017
 ## Skills
 
 Programming
-:   - Scientific Python: Numpy, Pandas, Scikit-learn, JAX, Numpyro, Matplotlib
+:   - Numpy, Pandas, Scikit-learn, JAX, Numpyro, PyTorch, UV
     - Git, Bash, CI/CD, Unix tools, Docker, HTML & CSS & JS, Elixir, Ocaml
 
 Language
