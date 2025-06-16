@@ -34,7 +34,7 @@ Mar 2024 - Now
     Building machine learning and algorithmically driven features for Datadog app.
 
     - Designed an algorithm to cluster logs based on tags entropy.
-    - Implemented a fast shallow learning model to detect cyberattacks in PyTorch.
+    - Implemented a fast learning model to detect cyberattacks in PyTorch.
     - Interviewed candidates with _Data Science Fundamentals_ interview. 
     
     </details>
