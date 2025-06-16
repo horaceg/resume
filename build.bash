@@ -8,7 +8,7 @@ pandoc -s --from markdown --to html \
     -H <(echo "<script>" $(cat script.js) "</script>") \
     -c style.css -o index.html resume.md
 
-node print.js ~/dev/resume/index.html rendered/horace_guy.pdf
+node print.js ./index.html rendered/horace_guy.pdf
 
 mkdir -p public
 cp *.{html,css} public/
