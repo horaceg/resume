@@ -5,7 +5,6 @@ set -ex
 date
 
 pandoc -s --from markdown --to html \
-    -H <(echo "<script>" $(cat script.js) "</script>") \
     -c style.css -o index.html resume.md
 
 cwd=$(pwd)
