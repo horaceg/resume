@@ -8,21 +8,29 @@ description: The resume of Horace Guy
 > <a href="https://github.com/horaceg" target="_blank" rel="noopener">
 > <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="17px" width="17px" alt="Github logo">
 > horaceg</a>
-> • 
+> •
 > <a href="https://linkedin.com/in/horace-guy" target="_blank" rel="noopener">
-> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="17px" width="17px" alt="Linkedin logo"> 
+> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="17px" width="17px" alt="Linkedin logo">
 > horace-guy</a>
-> • 
+> •
 > <a href="https://blog.horaceg.xyz" target="_blank" rel="noopener">
 > blog.horaceg.xyz</a>
-> • 
+> •
 > <a href="https://cv.horaceg.xyz" target="_blank">
 > cv.horaceg.xyz</a>
 \
 
-<!-- ---- -->
+----
 
-> **Applied Scientist**
+> **Senior Machine Learning Engineer**
+
+## Summary
+
+<div id="summary">
+Machine learning engineer and applied scientist with 6+ years of experience in probabilistic modeling and full-stack ML systems.
+
+Published author in statistical energy modeling; built ML systems from R&D to production.
+</div>
 
 ----
 
@@ -33,10 +41,11 @@ Mar 2024 - Now
 
     Building machine learning and algorithmically driven features for Datadog app.
 
+    - Designed and implemented a clustering pipeline for log clustering in production using embeddings.
     - Designed an algorithm to cluster logs based on tags entropy.
     - Implemented a fast learning model to detect cyberattacks in PyTorch.
-    - Interviewed candidates with _Data Science Fundamentals_ interview. 
-    
+    - Interviewed candidates with _Data Science Fundamentals_ interview.
+
     </details>
 
 Sep 2023 - Dec 2023
@@ -45,19 +54,21 @@ Sep 2023 - Dec 2023
     Part of a curated community of future founders, working to build globally impactful companies together.
 
     Formed 3 different teams tackling hard problems with software.
-    
+
     </details>
 
 May 2019 - Feb 2023
 :   <details open><summary>*Data scientist* in R&D at **Deepki** (Paris, France)</summary>
-    
-    Data science improving energy efficiency of buildings. 
-    
+
+    Data science improving energy efficiency of buildings.
+
     Working from research to deployment in production of machine learning models:
-    
+
     - A tool to query hundreds of heterogenous databases with HTTP REST APIs
-    - Bayesion modelling of consumption based on location, floor area and usage
-    - Gap-filling of consumption data to estimate missing monthly points: 2x improvement
+    - Developed Bayesian models to estimate building energy consumption, accounting for spatial-temporal variability (e.g.,floor area, usage type, climate zone)
+    - Integrated weather and climate variables into predictive pipelines to inform sustainable energy use
+    - Applied probabilistic programming (NumPyro) for robust inference and uncertainty quantification
+    - Designed and validated time-series gap-filling models for missing monthly data, doubling imputation accuracy
     - Mentoring and training of interns and junior staff members
 
     </details>
@@ -112,11 +123,11 @@ Sep 2016 - Dec 2017
 ## Skills
 
 Programming
-:   - Numpy, Pandas, Scikit-learn, JAX, Numpyro, PyTorch, UV
-    - Git, Bash, CI/CD, Unix tools, Docker, HTML & CSS & JS, Elixir, Ocaml
+:   - Python, JAX, NumPyro, PyTorch, Scikit-learn, Pandas, Numpy
+    - CI/CD, Docker, Git, Unix tools, Bash, Elixir, OCaml
 
 Language
-:   French (Native) | English (Proficient) | German (Fair)
+:   English (Fluent) | French (Native)
 
 ## Activities and interest
 
@@ -135,11 +146,12 @@ Energy and Buildings,
 Volume 299,
 2023
 ](https://www.sciencedirect.com/science/article/abs/pii/S0378778823008253)
+- Built a Bayesian model for building-level energy estimation using physical and climate-based variables; highlighted reproducibility and uncertainty modeling across Europe.
 
 Other
 :   - [_An introduction to Bayesian inference_](https://blog.horaceg.xyz/posts/bayes)
-    - [Kaggle: _Impacts of interventions on the propagation of COVID-19 with mobility data_](https://www.kaggle.com/achyrogue/impact-of-interventions-through-mobility-data)
-    - [_Introduction to probabilistic programming_](https://observablehq.com/@horaceg/probabilistic-programming)
+    - [Kaggle: _Impacts of interventions on the propagation of COVID-19 with mobility data and bayesian modelling_](https://www.kaggle.com/achyrogue/impact-of-interventions-through-mobility-data)
+    - [_Introduction to probabilistic programming_](https://blog.horaceg.xyz/posts/intro-ppl/)
     - [_A gradient-descent visualizer_](https://gradfront.pages.dev/)
     - [_Mathematics of bookmaking_](https://blog.horaceg.xyz/posts/betting-theory/)
 
