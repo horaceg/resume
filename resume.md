@@ -22,12 +22,12 @@ description: The resume of Horace Guy
 
 ----
 
-> **Senior Machine Learning Engineer**
+> **Applied AI scientist**
 
 ## Summary
 
 <div id="summary">
-Machine learning engineer and applied scientist with 6+ years of experience in probabilistic modeling and full-stack ML systems.
+Machine learning (ML) engineer and applied AI scientist with 6+ years of experience in probabilistic modeling and full-stack ML systems.
 
 Published author in statistical energy modeling; built ML systems from R&D to production.
 </div>
@@ -37,7 +37,7 @@ Published author in statistical energy modeling; built ML systems from R&D to pr
 ## Professional experience
 
 Mar 2024 - Now
-:   <details open><summary>*Applied Scientist* at **Datadog** (Paris, France)</summary>
+:   <details open><summary>*Applied AI Scientist* at **Datadog** (Paris, France)</summary>
 
     Building machine learning and algorithmically driven features for Datadog app.
 
