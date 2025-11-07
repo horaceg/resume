@@ -7,4 +7,3 @@ const puppeteer = require('puppeteer');
     await page.pdf({ path: process.argv[3], format: 'A4' });
     await browser.close();
 })();
-
