@@ -4,12 +4,12 @@ set -ex
 
 date
 
+mkdir -p public
+
+cp style.css public/
+
 pandoc -s --from markdown --to html \
-    -c style.css -o index.html resume.md
+    -c style.css -o public/index.html resume.md
 
 cwd=$(pwd)
-node print.js $cwd/index.html horace_guy.pdf
-
-mkdir -p public
-cp *.{html,css} public/
-cp horace_guy.pdf public/
+pnpm exec node print.js $cwd/public/index.html public/horace_guy.pdf

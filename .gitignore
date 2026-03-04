@@ -1,10 +1,11 @@
-*.html
+# Stop ignoring artifacts - local build
+# public/
+
 *.docx
 *.txt
 *.pdf
 *.odt
 .vscode/
-public/
 .DS_Store
 cover.md
 # pixi environments

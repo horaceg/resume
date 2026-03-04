@@ -27,7 +27,7 @@ description: The resume of Horace Guy
 ## Summary
 
 <div id="summary">
-Machine learning (ML) engineer and applied AI scientist with 6+ years of experience in probabilistic modeling and full-stack ML systems.
+Machine learning (ML) engineer and applied AI scientist with 7+ years of experience in probabilistic modeling and full-stack ML systems.
 
 Published author in statistical energy modeling; built ML systems from R&D to production.
 </div>
