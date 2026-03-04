@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Horace Guy <horace.guy.k@gmail.com>"]
+channels = ["conda-forge"]
+name = "resume"
+platforms = ["osx-arm64", "linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pandoc = ">=3.9,<4"
+pnpm = ">=10.30.3,<11"
