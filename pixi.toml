@@ -6,6 +6,9 @@ platforms = ["osx-arm64", "linux-64"]
 version = "0.1.0"
 
 [tasks]
+build = "./scripts/build.bash"
+deploy = "./scripts/deploy.bash"
+all = [{ task = "build" }, { task = "deploy" }]
 
 [dependencies]
 pandoc = ">=3.9,<4"
