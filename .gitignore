@@ -1,5 +1,4 @@
-# Stop ignoring artifacts - local build
-# public/
+public/
 
 *.docx
 *.txt
