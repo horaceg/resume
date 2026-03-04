@@ -1,13 +1,11 @@
-public/
-
-*.docx
-*.txt
-*.pdf
-*.odt
-.vscode/
+# MacOS
 .DS_Store
-cover.md
+
+# private cover letters
+cover*
+
 # pixi environments
 .pixi
+
 *.egg-info
 node_modules/
